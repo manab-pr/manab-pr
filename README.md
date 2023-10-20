@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manab Pratim</h1>
 <h3 align="center">A passionate full stack Web Dev from India</h3>
-
+![Header](./github-header-image.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manab-pr&label=Profile%20views&color=0e75b6&style=flat" alt="manab-pr" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Web App**
