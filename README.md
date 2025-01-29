@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif )
 <h1 align="center">Hi 👋, I'm Manab Pratim</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">Tech enthusiast</h3>
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manab-pr&label=Profile%20views&color=0e75b6&style=flat" alt="manab-pr" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Web App**,**chat Bot**,**LLM**
+- 🔭 I’m currently working on **Full Stack Web App**,**flutter**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **ShellScripting**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-manab-pr.vercel.app/](https://portfolio-manab-pr.vercel.app/)
 
-- 💬 Ask me about **Web Development**,**Bot**,**LLM**
+- 💬 Ask me about **Web Development**,**Mobile App Development**
 
 - 📫 How to reach me **manab2001maity@gmail.com**
 
