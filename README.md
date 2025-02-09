@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ShellScripting**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-manab-pr.vercel.app/](https://portfolio-manab-pr.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-manab-pr.vercel.app/])
 
 - 💬 Ask me about **Web Development**,**Mobile App Development**
 
