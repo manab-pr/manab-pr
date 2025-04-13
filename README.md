@@ -7,7 +7,6 @@
 - 🔭 Currently building clean, scalable backend systems using **Go**  
 - 🌱 Diving deeper into **Kubernetes** & **System Design**  
 - 🧠 Exploring distributed systems & performance-focused architecture  
-- 👨‍💻 Check out my work at [https://portfolio-manab-pr.vercel.app](https://portfolio-manab-pr.vercel.app)  
 - 📫 Reach me at **manab2001maity@gmail.com**
 
 ---
