@@ -1,81 +1,233 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Manab Pratim</h1>
-<h3 align="center">Backend Developer | Golang, Docker, Redis, MongoDB | Open to Remote Roles 🌍</h3>
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manab-pr&label=Profile%20views&color=0e75b6&style=flat" alt="manab-pr" /> </p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  MANAB PRATIM · README.md                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-- 🔭 Currently building clean, scalable backend systems using **Go**  
-- 🌱 Diving deeper into **Kubernetes** & **System Design**  
-- 🧠 Exploring distributed systems & performance-focused architecture  
-- 📫 Reach me at **manab2001maity@gmail.com**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Manab%20Pratim&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=Backend%20Developer%20%7C%20Go%20%C2%B7%20Docker%20%C2%B7%20Redis%20%C2%B7%20MongoDB&descAlignY=75&descSize=16&animation=fadeIn" width="100%"/>
+</div>
 
----
+<!-- VISITOR BADGE + STATUS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manab-pr&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-3fb950?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Distributed%20Systems-06b6d4?style=for-the-badge&logo=go&logoColor=white" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pratim_manab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratim_manab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manab-pratim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manab-pratim-maity-402172208" height="30" width="40" /></a>
-<a href="https://instagram.com/manab.pratim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manab.pratim" height="30" width="40" /></a>
-</p>
+<br/>
 
----
-
-<h3 align="left">🧩 Tech Stack & Tools</h3>
+<!-- ── HERO ROW ── -->
 <div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" height="30" />
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius:12px"/>
+
+### `$ whoami`
+
+```go
+type Developer struct {
+    Name     string
+    Role     string
+    Location string
+    Focus    []string
+    Learning []string
+    Email    string
+    OpenTo   string
+}
+
+manab := Developer{
+    Name:     "Manab Pratim Maity",
+    Role:     "Backend Developer",
+    Location: "India 🇮🇳",
+    Focus:    []string{"Go", "Docker", "Redis", "MongoDB"},
+    Learning: []string{"Kubernetes", "System Design", "Distributed Systems"},
+    Email:    "manab2001maity@gmail.com",
+    OpenTo:   "Remote Roles 🌍",
+}
+```
+
 </div>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!--          MANAB-PR · GITHUB STATS           -->
-<!-- ╚══════════════════════════════════════════╝ -->
+<br clear="right"/>
+
+---
+
+<!-- ── ABOUT SECTION ── -->
+
+### 🧭 What I'm up to
+
+```
+🔭  Building    →  Clean, scalable backend systems in Go
+🌱  Learning    →  Kubernetes & System Design patterns
+🧠  Exploring   →  Distributed systems & performance architecture
+📫  Contact     →  manab2001maity@gmail.com
+```
+
+---
+
+<!-- ── CONNECT ── -->
+
+### 🌐 Find me online
+
+<div align="left">
+  <a href="https://twitter.com/pratim_manab" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-pratim__manab-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/manab-pratim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-manab--pratim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/manab.pratim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-manab.pratim-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:manab2001maity@gmail.com">
+    <img src="https://img.shields.io/badge/Email-manab2001maity@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<!-- ── TECH STACK ── -->
+
+### 🧩 Tech Stack & Tools
+
+**Core Backend**
+
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="32"/>
+</div>
+
+**Infrastructure & DevOps**
+
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" height="32"/>
+</div>
+
+**Databases & Caching**
+
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="32"/>
+</div>
+
+**Currently Learning**
+
+<div>
+  <img src="https://img.shields.io/badge/System%20Design-7c3aed?logo=buffer&logoColor=white&style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-06b6d4?logo=apachekafka&logoColor=white&style=for-the-badge" height="32"/>
+</div>
+
+---
+
+<!-- ── GITHUB STATS ── -->
+
+### 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=header&text=manab-pr&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<!-- STATS CARD + STREAK SIDE BY SIDE -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manab-pr&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true" />
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=manab-pr&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=06b6d4&sideLabels=7d8590&dates=7d8590&stroke=21262d&currStreakNum=f0f6fc&sideNums=c9d1d9" />
+
+</div>
+
+---
+
+<!-- ── OPEN SOURCE / CONTRIBUTION ── -->
+
+### 🌱 Open Source Contributions
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH - full width, most prominent -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-pr&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&radius=8&custom_title=Contribution%20Graph%20%E2%80%93%20manab-pr" width="97%"/>
 
 </div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=manab-pr&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&radius=8&custom_title=manab-pr%27s%20Contribution%20Graph"
-    width="95%"
-    alt="manab-pr's contribution graph"
-  />
+
+<!-- SNAKE ANIMATION - auto-generated via GitHub Action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/manab-pr/manab-pr/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manab-pr/manab-pr/output/github-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/manab-pr/manab-pr/output/github-snake-dark.svg" width="97%"/>
+</picture>
+
+</div>
+
+> 💡 _The snake above eats my real contribution squares — regenerated every night via GitHub Actions._
+
+---
+
+<!-- ── ACHIEVEMENTS (replacing lego trophies) ── -->
+
+### 🏅 Achievements
+
+<div align="center">
+
+<!-- METRIC BADGES - cleaner than trophy shelf -->
+<img src="https://img.shields.io/github/followers/manab-pr?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/manab-pr?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/PRs-Welcome-3fb950?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+
 </div>
 
 <br/>
 
-<!-- ── STREAK ── -->
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=manab-pr&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=06b6d4&sideLabels=7d8590&dates=7d8590&stroke=21262d&currStreakNum=f0f6fc&sideNums=c9d1d9" />
+
+<!-- SKYLINE 3D CONTRIBUTION - eye catching visual -->
+<a href="https://skyline.github.com/manab-pr/2024" target="_blank">
+  <img src="https://img.shields.io/badge/🌆%20GitHub%20Skyline%202024-View%20My%203D%20Contribution%20City-7c3aed?style=for-the-badge&labelColor=0d1117" />
+</a>
+
 </div>
 
 <br/>
 
-<!-- ── ACTIVITY GRAPH ── -->
+<!-- DETAILED STATS TABLE -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-pr&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" width="95%"/>
+
+| Metric | Details |
+|:---|:---|
+| 🔥 **Main Language** | Go (Golang) |
+| 🐳 **Infra** | Docker · Kubernetes · Nginx |
+| 🗄️ **Data** | MongoDB · Redis |
+| 🌍 **Availability** | Open to remote roles globally |
+| 📅 **Active Since** | Consistent commits · check the graph above |
+| 🤝 **Collab Style** | Clean APIs · good docs · PR-friendly |
+
 </div>
 
-<br/>
+---
 
-<!-- ── TROPHIES ── -->
+<!-- ── QUOTE ── -->
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manab-pr&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- ── FOOTER ── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=footer" width="100%"/>
+  <sub>🛠️ <em>Always building. Always learning.</em> &nbsp;·&nbsp; Made with ♥ by Manab Pratim</sub>
 </div>
-
-🛠️ _Always building. Always learning._
