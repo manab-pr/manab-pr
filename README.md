@@ -32,16 +32,50 @@
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" height="30" />
 </div>
 
----
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--          MANAB-PR · GITHUB STATS           -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-<h3 align="left">📈 GitHub Stats</h3>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manab-pr&show_icons=true&locale=en&layout=compact" alt="manab-pr" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=header&text=manab-pr&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manab-pr&show_icons=true&locale=en" alt="manab-pr" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manab-pr&" alt="manab-pr" /></p>
+<br/>
 
----
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=manab-pr&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&radius=8&custom_title=manab-pr%27s%20Contribution%20Graph"
+    width="95%"
+    alt="manab-pr's contribution graph"
+  />
+</div>
+
+<br/>
+
+<!-- ── STREAK ── -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=manab-pr&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=06b6d4&sideLabels=7d8590&dates=7d8590&stroke=21262d&currStreakNum=f0f6fc&sideNums=c9d1d9" />
+</div>
+
+<br/>
+
+<!-- ── ACTIVITY GRAPH ── -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-pr&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ── TROPHIES ── -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manab-pr&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=footer" width="100%"/>
+</div>
 
 🛠️ _Always building. Always learning._
